@@ -4,7 +4,6 @@ This repository contains my solution to a timed business analyst case study comp
 
 ## Assignment context
 - Format: Excel only
-- Time limit: 120 minutes
 - Focus: data quality, KPI calculation, customer segmentation, A/B test evaluation, correlation analysis, and business recommendations
 
 ## Goal
