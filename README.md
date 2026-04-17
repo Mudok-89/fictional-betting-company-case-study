@@ -73,6 +73,20 @@ In this case study, I focused on:
 - correlation analysis
 - business storytelling / management summary
 
+## Analytical decisions
+A few choices I made during the analysis:
+- I used both mean and median for selected KPIs because betting/customer revenue data is often skewed by outliers.
+- I treated data quality review as a necessary first step before drawing business conclusions.
+- In the A/B test section, I compared not only engagement metrics but also downstream business metrics and negative signals such as unsubscribe rate.
+- In segmentation, I aimed for segments that are interpretable from a business perspective, not only statistically different.
+
+## What I would improve next
+If I extended this case study further, I would:
+- validate statistical significance for A/B test differences
+- test alternative customer segmentation logic
+- visualize the funnel from campaign engagement to deposit/bet behavior
+- document assumptions and edge cases in more detail
+
 ## Notes
 - This is a practice case study based on a fictional betting company
 - The repository is shared for portfolio purposes
