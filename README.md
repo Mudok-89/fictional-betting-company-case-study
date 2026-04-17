@@ -1,6 +1,7 @@
 # Business Analyst Case Study – Fictional Betting Company
 
 This repository contains my solution to a timed business analyst case study completed in Excel.
+The analysis covers data validation, KPI calculation, customer segmentation, campaign A/B test evaluation, and business-oriented recommendations.
 
 ## Assignment context
 - Format: Excel only
